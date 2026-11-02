@@ -27,3 +27,4 @@ This project is currently under development. Features are not yet fully function
 License
 
 For educational and development purposes.
+Android studyo: https://developer.android.com/studio
